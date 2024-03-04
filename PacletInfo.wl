@@ -7,7 +7,7 @@ PacletObject[
     "Creator" -> "Daniel Sanchez",
     "License" -> "MIT",
     "PublisherID" -> "WolframCompiler",
-    "Version" -> "1.0.0",
+    "Version" -> "1.0.1",
     "WolframVersion" -> "14+",
     "PrimaryContext" -> "WolframCompiler`ClassSystem`",
     "DocumentationURL" -> "https://resources.wolframcloud.com/PacletRepository/resources",
@@ -19,7 +19,6 @@ PacletObject[
         "Symbols" -> {
           "WolframCompiler`ClassSystem`Class",
           "WolframCompiler`ClassSystem`CreateObject",
-          "WolframCompiler`ClassSystem`DeclareClass",
           "WolframCompiler`ClassSystem`ObjectInstance",
           "WolframCompiler`ClassSystem`ObjectInstanceQ",
           "WolframCompiler`ClassSystem`RegisterClass"
